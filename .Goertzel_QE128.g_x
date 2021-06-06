@@ -1,0 +1,35 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Compiler_SearchUserPaths</name>
+      <values lines_count="2">
+        <Line>"${ProjDirPath}/Sources"</Line>
+        <Line>"${ProjDirPath}/Generated_Code"</Line>
+      </values>
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="Generated_Code/PTF.h" FileDate="2017-10-10, 13:44:44" FileAge="1507635884836" FileType="45637" CompNumb="9" />
+      <File Name="Generated_Code/PTF.c" FileDate="2017-10-10, 13:44:44" FileAge="1507635884840" FileType="45637" CompNumb="9" />
+      <File Name="Generated_Code/PE_Types.h" FileDate="2017-10-10, 12:51:45" FileAge="1507632705689" FileType="45637" />
+      <File Name="Generated_Code/IO_Map.h" FileDate="2017-10-10, 12:51:45" FileAge="1507632705674" FileType="45637" />
+      <File Name="Generated_Code/PE_Error.h" FileDate="2017-10-10, 12:51:45" FileAge="1507632705684" FileType="45637" />
+      <File Name="Generated_Code/IO_Map.c" FileDate="2017-10-10, 12:51:45" FileAge="1507632705663" FileType="45637" />
+      <File Name="Documentation/Goertzel_QE128.txt" FileDate="2017-10-10, 13:01:26" FileAge="1507633286282" FileType="3072" />
+      <File Name="Sources/Events.h" FileDate="2017-10-10, 13:01:25" FileAge="1507633285899" FileType="131328" />
+      <File Name="Documentation/Goertzel_QE128_Settings.xml" FileDate="2017-10-10, 16:23:08" FileAge="1507645388257" FileType="3072" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2017-10-10, 13:19:14" FileAge="1507634354679" FileType="45637" CompNumb="8" />
+      <File Name="Generated_Code/ADC.h" FileDate="2017-10-10, 16:23:08" FileAge="1507645388221" FileType="45637" CompNumb="10" />
+      <File Name="Sources/main.c" FileDate="2017-10-11, 13:27:36" FileAge="1507721256123" FileType="128" />
+      <File Name="Sources/Events.c" FileDate="2017-10-10, 12:51:46" FileAge="1507632706001" FileType="131328" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2017-10-10, 13:19:14" FileAge="1507634354684" FileType="45637" CompNumb="8" />
+      <File Name="Generated_Code/ADC.c" FileDate="2017-10-10, 16:23:08" FileAge="1507645388226" FileType="45637" CompNumb="10" />
+      <File Name="Generated_Code/Vectors.c" FileDate="2017-10-10, 13:01:25" FileAge="1507633285894" FileType="45637" CompNumb="8" />
+      <File Name="Project_Settings/Linker_Files/ProcessorExpert.lcf" FileDate="2017-10-10, 12:51:45" FileAge="1507632705986" FileType="8" CompNumb="8" />
+      <File Name="Generated_Code/PE_Const.h" FileDate="2017-10-10, 12:51:45" FileAge="1507632705679" FileType="45637" />
+      <File Name="Documentation/Goertzel_QE128_SIGNALS.txt" FileDate="2018-08-08, 08:09:50" FileAge="1533708590846" FileType="3072" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>17</CodeGenReference>
+</CodeGenerationInfo>
